@@ -1,3 +1,3 @@
-# Parkinson's and RBD EEG Data Set
+# https://laprama.github.io/
 
 Test repository for website
